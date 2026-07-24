@@ -1,4 +1,4 @@
-BOT_TOKEN = "8780703330:AAGpFRQbHggLYSC7Whi68E-g0JZRxYD7cNE"
+BOT_TOKEN = "8901838102:AAGx_qQmpf9d59GAeqF6E-IeYQb1-CtJTxc"
 
 # Список каналов/чатов для обязательной подписки
 # Типы: "public", "private", "request" (по заявкам)
